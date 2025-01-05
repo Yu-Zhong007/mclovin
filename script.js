@@ -50,7 +50,7 @@ animatedElements.forEach((element) => {
 		function copyToClipboard1() {
 			// Create a textarea element to hold the text to be copied
 			var textArea = document.createElement("textarea");
-			textArea.value = "xxxxxxxxxxxxxxxxxxxxxx";
+			textArea.value = "8g4rQVxvvQuTqWj62xK7jHL1Qq9Wnogv7Xtbodabpump";
 			document.body.appendChild(textArea);
 
 			// Select and copy the text
