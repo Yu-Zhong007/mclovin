@@ -489,7 +489,7 @@
   /* border: 4px solid #DF2B26 !important; */
   font-size: 25px !important;
   letter-spacing: 2px !important;
-  background: rgb(39, 125, 255);
+  background: #202020;
   /* background: radial-gradient(92.05% 200% at 94.89% -132.81%, #E08986 67.59%, #86A1D2), radial-gradient(71.74% 117.31% at 32.95% 0%, #86A1D2 21.25%, #6f88b7 88.62%), radial-gradient(39.2% 181% at 5.68% 100%, #394d71, #3a4e74), radial-gradient(31.25% 236.33% at 96.59% 31.25%, #ffffff4d, #fff0) !important; */
   color: #fff !important;
   box-shadow: inset 0px -5px 0px 0px rgba(0, 0, 0, 0.341);
@@ -524,15 +524,15 @@
 /* background: linear-gradient(to right, #944afd, #40b8b7, #14f194); */
 
 .htb11 {
-  background: linear-gradient(135deg, #b4b4b4, #6769d6, #222cb8, #030192);
+  background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c);
 }
 
 .htb22 {
-  background: linear-gradient(135deg, #b4b4b4, #6769d6, #222cb8, #030192);
+  background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c);
 }
 
 .htb33 {
-  background: linear-gradient(135deg, #b4b4b4, #6769d6, #222cb8, #030192);
+  background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c);
 }
 
 .htb11:hover,
@@ -652,7 +652,7 @@
 
 .migglebtn:hover {
   transform: scale(1.05);
-  background-color: #0c3ca5;
+  background-color: #29292e;
   color: #fff !important;
 }
 
